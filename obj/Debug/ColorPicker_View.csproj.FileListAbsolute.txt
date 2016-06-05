@@ -1,0 +1,10 @@
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\bin\Debug\ColorPicker_WPF_MVVM.exe.config
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\bin\Debug\ColorPicker_WPF_MVVM.exe
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\bin\Debug\ColorPicker_WPF_MVVM.pdb
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_View.csprojResolveAssemblyReference.cache
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\App.g.cs
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_WPF_MVVM_MarkupCompile.cache
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_WPF_MVVM.Properties.Resources.resources
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_View.csproj.GenerateResource.Cache
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_WPF_MVVM.exe
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\obj\Debug\ColorPicker_WPF_MVVM.pdb

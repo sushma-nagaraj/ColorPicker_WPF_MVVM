@@ -1,0 +1,1 @@
+D:\OFc\ColorPicker_WPF_MVVM\ColorPicker_WPF_MVVM\bin\Debug\ColorPicker_WPF_MVVM.exe.config
